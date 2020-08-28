@@ -13,7 +13,7 @@ using Ocean.Infrastructure.JwtBreare;
 namespace Ocean.Api.Controllers
 {
     /// <summary>
-    /// 账户信息
+    /// 账户信息 我是测试信息啦啦啦
     /// </summary>
     [Route("api/[controller]")]
     [ApiController]
